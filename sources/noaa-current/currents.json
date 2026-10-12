@@ -1,9 +1,9 @@
 {
   "note": "Generated from NOAA CO-OPS mdapi (harcon@currbin + currentpredictionoffsets). NOAA data is public domain; derived predictions are UNOFFICIAL and not for navigation.",
-  "generated": "2026-08-16T02:49:39.737Z",
+  "generated": "2026-10-12T22:08:43.622Z",
   "crossFlow": {
     "measured": "NOAA minorMeanSpeed — flow perpendicular to the flood axis, present at all times including slack",
-    "records": 856,
+    "records": 859,
     "gte0_25kn": 62,
     "gte0_50kn": 12,
     "worstRatio": {
@@ -8679,124 +8679,129 @@
       "type": "harmonic",
       "latitude": 34.17580032348633,
       "longitude": -77.9569091796875,
-      "floodDirection": 354.1,
-      "ebbDirection": 174.10000000000002,
-      "offset": -0.371,
+      "floodDirection": 2.9,
+      "ebbDirection": 182.9,
+      "offset": -0.241,
       "constituents": [
         {
           "name": "M2",
-          "amplitude": 1.113,
-          "phase": 1.3
+          "amplitude": 0.906,
+          "phase": 6
         },
         {
           "name": "S2",
-          "amplitude": 0.123,
-          "phase": 35.1
+          "amplitude": 0.12,
+          "phase": 33.4
         },
         {
           "name": "N2",
-          "amplitude": 0.212,
-          "phase": 339.5
+          "amplitude": 0.188,
+          "phase": 344.7
         },
         {
           "name": "K1",
-          "amplitude": 0.143,
-          "phase": 140
+          "amplitude": 0.093,
+          "phase": 159.5
         },
         {
           "name": "M4",
-          "amplitude": 0.092,
-          "phase": 121.3
+          "amplitude": 0.147,
+          "phase": 159
         },
         {
           "name": "O1",
-          "amplitude": 0.019,
-          "phase": 157.6
+          "amplitude": 0.038,
+          "phase": 116.3
         },
         {
           "name": "M6",
-          "amplitude": 0.138,
-          "phase": 223.2
+          "amplitude": 0.106,
+          "phase": 215.8
         },
         {
           "name": "S4",
-          "amplitude": 0.012,
-          "phase": 80.6
+          "amplitude": 0.011,
+          "phase": 50.5
         },
         {
           "name": "NU2",
-          "amplitude": 0.041,
-          "phase": 342.5
+          "amplitude": 0.036,
+          "phase": 347.6
         },
         {
           "name": "S6",
-          "amplitude": 0.012,
-          "phase": 282.1
+          "amplitude": 0.001,
+          "phase": 70.2
         },
         {
           "name": "2N2",
-          "amplitude": 0.028,
-          "phase": 317.7
+          "amplitude": 0.025,
+          "phase": 323.5
         },
         {
           "name": "OO1",
-          "amplitude": 0.001,
-          "phase": 122.5
+          "amplitude": 0.002,
+          "phase": 202.7
         },
         {
           "name": "LAM2",
-          "amplitude": 0.008,
-          "phase": 17
+          "amplitude": 0.006,
+          "phase": 18.7
         },
         {
           "name": "M1",
-          "amplitude": 0.001,
-          "phase": 148.8
+          "amplitude": 0.003,
+          "phase": 137.9
         },
         {
           "name": "J1",
-          "amplitude": 0.001,
-          "phase": 131.3
+          "amplitude": 0.003,
+          "phase": 180.9
         },
         {
           "name": "RHO",
           "amplitude": 0.001,
-          "phase": 165.2
+          "phase": 97.8
         },
         {
           "name": "Q1",
-          "amplitude": 0.004,
-          "phase": 166.3
+          "amplitude": 0.007,
+          "phase": 94.9
         },
         {
           "name": "T2",
           "amplitude": 0.007,
-          "phase": 33.8
+          "phase": 32.3
         },
         {
           "name": "R2",
           "amplitude": 0.001,
-          "phase": 36.5
+          "phase": 34.4
+        },
+        {
+          "name": "2Q1",
+          "amplitude": 0.001,
+          "phase": 73.5
         },
         {
           "name": "P1",
-          "amplitude": 0.047,
-          "phase": 141.4
+          "amplitude": 0.031,
+          "phase": 156.3
         },
         {
           "name": "L2",
-          "amplitude": 0.03,
-          "phase": 339.4
+          "amplitude": 0.027,
+          "phase": 344.7
         },
         {
           "name": "K2",
           "amplitude": 0.033,
-          "phase": 37.9
+          "phase": 35.6
         },
         {
           "name": "M8",
-          "amplitude": 0.032,
-          "phase": 323
+          "amplitude": 0.007,
+          "phase": 344.5
         }
       ]
     },
@@ -75811,6 +75816,372 @@
           "name": "MS4",
           "amplitude": 0.012,
           "phase": 35.3
+        }
+      ]
+    },
+    {
+      "id": "SAV2304",
+      "name": "Savannah River Approach",
+      "type": "harmonic",
+      "latitude": 32.04090118408203,
+      "longitude": 80.84850311279297,
+      "floodDirection": 261,
+      "ebbDirection": 81,
+      "offset": -0.071,
+      "constituents": [
+        {
+          "name": "M2",
+          "amplitude": 1.776,
+          "phase": 312
+        },
+        {
+          "name": "S2",
+          "amplitude": 0.179,
+          "phase": 342.3
+        },
+        {
+          "name": "N2",
+          "amplitude": 0.409,
+          "phase": 300.8
+        },
+        {
+          "name": "K1",
+          "amplitude": 0.108,
+          "phase": 133.9
+        },
+        {
+          "name": "M4",
+          "amplitude": 0.177,
+          "phase": 185.6
+        },
+        {
+          "name": "O1",
+          "amplitude": 0.073,
+          "phase": 133.3
+        },
+        {
+          "name": "M6",
+          "amplitude": 0.16,
+          "phase": 81.5
+        },
+        {
+          "name": "MK3",
+          "amplitude": 0.028,
+          "phase": 253
+        },
+        {
+          "name": "S4",
+          "amplitude": 0.03,
+          "phase": 359.7
+        },
+        {
+          "name": "MN4",
+          "amplitude": 0.084,
+          "phase": 171
+        },
+        {
+          "name": "S6",
+          "amplitude": 0,
+          "phase": 0
+        },
+        {
+          "name": "2N2",
+          "amplitude": 0.111,
+          "phase": 328.7
+        },
+        {
+          "name": "OO1",
+          "amplitude": 0,
+          "phase": 0
+        },
+        {
+          "name": "M1",
+          "amplitude": 0.007,
+          "phase": 303.6
+        },
+        {
+          "name": "J1",
+          "amplitude": 0.009,
+          "phase": 167.7
+        },
+        {
+          "name": "Q1",
+          "amplitude": 0.015,
+          "phase": 135.7
+        },
+        {
+          "name": "2Q1",
+          "amplitude": 0.013,
+          "phase": 147.3
+        },
+        {
+          "name": "P1",
+          "amplitude": 0.024,
+          "phase": 38.4
+        },
+        {
+          "name": "2SM2",
+          "amplitude": 0.059,
+          "phase": 162.1
+        },
+        {
+          "name": "M3",
+          "amplitude": 0.065,
+          "phase": 126
+        },
+        {
+          "name": "L2",
+          "amplitude": 0.185,
+          "phase": 302.3
+        },
+        {
+          "name": "2MK3",
+          "amplitude": 0.041,
+          "phase": 336.2
+        },
+        {
+          "name": "K2",
+          "amplitude": 0.073,
+          "phase": 321.7
+        },
+        {
+          "name": "M8",
+          "amplitude": 0.053,
+          "phase": 8.3
+        },
+        {
+          "name": "MS4",
+          "amplitude": 0.09,
+          "phase": 233.6
+        }
+      ]
+    },
+    {
+      "id": "SAV2305",
+      "name": "Cockspur Island, NE of",
+      "type": "harmonic",
+      "latitude": 32.03499984741211,
+      "longitude": 80.87319946289062,
+      "floodDirection": 255.2,
+      "ebbDirection": 75.19999999999999,
+      "offset": -0.351,
+      "constituents": [
+        {
+          "name": "M2",
+          "amplitude": 2.125,
+          "phase": 325.5
+        },
+        {
+          "name": "S2",
+          "amplitude": 0.477,
+          "phase": 353.1
+        },
+        {
+          "name": "K1",
+          "amplitude": 0.138,
+          "phase": 141
+        },
+        {
+          "name": "M4",
+          "amplitude": 0.188,
+          "phase": 139.7
+        },
+        {
+          "name": "O1",
+          "amplitude": 0.098,
+          "phase": 136.4
+        },
+        {
+          "name": "M6",
+          "amplitude": 0.048,
+          "phase": 199.4
+        },
+        {
+          "name": "MK3",
+          "amplitude": 0.035,
+          "phase": 266.6
+        },
+        {
+          "name": "S4",
+          "amplitude": 0.029,
+          "phase": 23.5
+        },
+        {
+          "name": "S6",
+          "amplitude": 0.003,
+          "phase": 108.3
+        },
+        {
+          "name": "2N2",
+          "amplitude": 0.193,
+          "phase": 328.9
+        },
+        {
+          "name": "OO1",
+          "amplitude": 0.01,
+          "phase": 20.4
+        },
+        {
+          "name": "2Q1",
+          "amplitude": 0.007,
+          "phase": 39.8
+        },
+        {
+          "name": "2SM2",
+          "amplitude": 0.134,
+          "phase": 103.5
+        },
+        {
+          "name": "2MK3",
+          "amplitude": 0.053,
+          "phase": 297.3
+        },
+        {
+          "name": "M8",
+          "amplitude": 0.01,
+          "phase": 111.4
+        },
+        {
+          "name": "MS4",
+          "amplitude": 0.126,
+          "phase": 194.8
+        }
+      ]
+    },
+    {
+      "id": "SAV2326",
+      "name": "Butter Bean Beach, Skidaway River",
+      "type": "harmonic",
+      "latitude": 31.947399139404297,
+      "longitude": 81.06510162353516,
+      "floodDirection": 44.9,
+      "ebbDirection": 224.9,
+      "offset": -0.036,
+      "constituents": [
+        {
+          "name": "M2",
+          "amplitude": 0.616,
+          "phase": 186.3
+        },
+        {
+          "name": "S2",
+          "amplitude": 0.093,
+          "phase": 233.2
+        },
+        {
+          "name": "N2",
+          "amplitude": 0.157,
+          "phase": 198.4
+        },
+        {
+          "name": "K1",
+          "amplitude": 0.021,
+          "phase": 321.4
+        },
+        {
+          "name": "M4",
+          "amplitude": 0.352,
+          "phase": 354.1
+        },
+        {
+          "name": "O1",
+          "amplitude": 0.032,
+          "phase": 358.4
+        },
+        {
+          "name": "M6",
+          "amplitude": 0.118,
+          "phase": 300.2
+        },
+        {
+          "name": "MK3",
+          "amplitude": 0.085,
+          "phase": 148.7
+        },
+        {
+          "name": "S4",
+          "amplitude": 0.014,
+          "phase": 193.8
+        },
+        {
+          "name": "MN4",
+          "amplitude": 0.166,
+          "phase": 347.7
+        },
+        {
+          "name": "S6",
+          "amplitude": 0.003,
+          "phase": 36.2
+        },
+        {
+          "name": "2N2",
+          "amplitude": 0.086,
+          "phase": 223.9
+        },
+        {
+          "name": "OO1",
+          "amplitude": 0.006,
+          "phase": 87.5
+        },
+        {
+          "name": "M1",
+          "amplitude": 0.01,
+          "phase": 65.8
+        },
+        {
+          "name": "J1",
+          "amplitude": 0.006,
+          "phase": 95.9
+        },
+        {
+          "name": "Q1",
+          "amplitude": 0.008,
+          "phase": 2
+        },
+        {
+          "name": "2Q1",
+          "amplitude": 0.003,
+          "phase": 15.4
+        },
+        {
+          "name": "P1",
+          "amplitude": 0.001,
+          "phase": 209.9
+        },
+        {
+          "name": "2SM2",
+          "amplitude": 0.015,
+          "phase": 347.1
+        },
+        {
+          "name": "M3",
+          "amplitude": 0.015,
+          "phase": 339.8
+        },
+        {
+          "name": "L2",
+          "amplitude": 0.095,
+          "phase": 151.5
+        },
+        {
+          "name": "2MK3",
+          "amplitude": 0.053,
+          "phase": 140.8
+        },
+        {
+          "name": "K2",
+          "amplitude": 0.024,
+          "phase": 227.5
+        },
+        {
+          "name": "M8",
+          "amplitude": 0.011,
+          "phase": 112.8
+        },
+        {
+          "name": "MS4",
+          "amplitude": 0.114,
+          "phase": 56.4
         }
       ]
     },

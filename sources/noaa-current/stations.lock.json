@@ -1,11 +1,11 @@
 {
   "note": "Pinned NOAA current-station list. `noaa-current-stations check` fails when NOAA's live list no longer matches this. Regenerate with `noaa-current-stations lock`, and re-extract the bundle when it changes.",
-  "generated": "2026-08-29T02:24:02.504Z",
+  "generated": "2026-10-12T22:08:44.097Z",
   "counts": {
-    "H": 841,
+    "H": 844,
     "S": 1706,
     "W": 238,
-    "total": 2785
+    "total": 2788
   },
   "ids": [
     "ACT0091:S",
@@ -2477,6 +2477,9 @@
     "SAB0808:H",
     "SAB0809:H",
     "SAB0812:H",
+    "SAV2304:H",
+    "SAV2305:H",
+    "SAV2326:H",
     "SEA0103:H",
     "SEA0104:H",
     "SEA0202:H",
